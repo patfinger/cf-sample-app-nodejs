@@ -1,6 +1,7 @@
 ---
 applications:
-- name: cf-nodejs
+- name: demo_cf-nodejs
   memory: 192M
   instances: 1
   random-route: false
+  host: cloudenablement-demo-spacee-cf-nodejs-demo
